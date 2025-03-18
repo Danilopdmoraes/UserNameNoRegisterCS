@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\PROJETOS\\TesteModificandoRegister\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD7A463-A243-4449-841E-922F9D1B3D13}|TesteModificandoRegister\\TesteModificandoRegister.csproj|g:\\projetos\\testemodificandoregister\\testemodificandoregister\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADD7A463-A243-4449-841E-922F9D1B3D13}|TesteModificandoRegister\\TesteModificandoRegister.csproj|solutionrelative:testemodificandoregister\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_TesteModificandoRegister_7b9dadd2_727b_474b_8e5e_d956cd21f5ab/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_TesteModificandoRegister_7b92b1b2_e70c_4311_a4fc_4aa42f11b531/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_TesteModificandoRegister_7b92b1b2_e70c_4311_a4fc_4aa42f11b531/True/SqlTable/dbo.AspNetUserLogins.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD7A463-A243-4449-841E-922F9D1B3D13}|TesteModificandoRegister\\TesteModificandoRegister.csproj|g:\\projetos\\testemodificandoregister\\testemodificandoregister\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADD7A463-A243-4449-841E-922F9D1B3D13}|TesteModificandoRegister\\TesteModificandoRegister.csproj|solutionrelative:testemodificandoregister\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\PROJETOS\\TesteModificandoRegister\\TesteModificandoRegister\\Data\\Migrations\\20250318220453_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TesteModificandoRegister\\Data\\Migrations\\20250318220453_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD7A463-A243-4449-841E-922F9D1B3D13}|TesteModificandoRegister\\TesteModificandoRegister.csproj|g:\\projetos\\testemodificandoregister\\testemodificandoregister\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADD7A463-A243-4449-841E-922F9D1B3D13}|TesteModificandoRegister\\TesteModificandoRegister.csproj|solutionrelative:testemodificandoregister\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD7A463-A243-4449-841E-922F9D1B3D13}|TesteModificandoRegister\\TesteModificandoRegister.csproj|g:\\projetos\\testemodificandoregister\\testemodificandoregister\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADD7A463-A243-4449-841E-922F9D1B3D13}|TesteModificandoRegister\\TesteModificandoRegister.csproj|solutionrelative:testemodificandoregister\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\PROJETOS\\TesteModificandoRegister\\TesteModificandoRegister\\Program.cs",
+              "RelativeDocumentMoniker": "TesteModificandoRegister\\Program.cs",
+              "ToolTip": "G:\\PROJETOS\\TesteModificandoRegister\\TesteModificandoRegister\\Program.cs",
+              "RelativeToolTip": "TesteModificandoRegister\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T22:37:47.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.AspNetUsers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_TesteModificandoRegister_7b9dadd2_727b_474b_8e5e_d956cd21f5ab/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-18T22:29:36.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.AspNetUserLogins [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_TesteModificandoRegister_7b92b1b2_e70c_4311_a4fc_4aa42f11b531/True/SqlTable/dbo.AspNetUserLogins.sql",
+              "ToolTip": "dbo.AspNetUserLogins [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-18T22:29:11.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "G:\\PROJETOS\\TesteModificandoRegister\\TesteModificandoRegister\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "TesteModificandoRegister\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "G:\\PROJETOS\\TesteModificandoRegister\\TesteModificandoRegister\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "TesteModificandoRegister\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAmwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T22:07:14.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250318220453_Inicial.cs",
+              "DocumentMoniker": "G:\\PROJETOS\\TesteModificandoRegister\\TesteModificandoRegister\\Data\\Migrations\\20250318220453_Inicial.cs",
+              "RelativeDocumentMoniker": "TesteModificandoRegister\\Data\\Migrations\\20250318220453_Inicial.cs",
+              "ToolTip": "G:\\PROJETOS\\TesteModificandoRegister\\TesteModificandoRegister\\Data\\Migrations\\20250318220453_Inicial.cs",
+              "RelativeToolTip": "TesteModificandoRegister\\Data\\Migrations\\20250318220453_Inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T22:04:53.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.AspNetUsers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_TesteModificandoRegister_7b92b1b2_e70c_4311_a4fc_4aa42f11b531/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-18T22:01:28.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "G:\\PROJETOS\\TesteModificandoRegister\\TesteModificandoRegister\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "TesteModificandoRegister\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "G:\\PROJETOS\\TesteModificandoRegister\\TesteModificandoRegister\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "TesteModificandoRegister\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T21:46:19.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "G:\\PROJETOS\\TesteModificandoRegister\\TesteModificandoRegister\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "TesteModificandoRegister\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "G:\\PROJETOS\\TesteModificandoRegister\\TesteModificandoRegister\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "TesteModificandoRegister\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAqwIcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T21:46:26.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
